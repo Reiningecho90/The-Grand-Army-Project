@@ -8,4 +8,5 @@ Updates:
 - Project page is set up with automation (8/5/2021)
 - Working on the actual build parts for the first map, should be finished soon after the training course is done. I will make another branch for pictures (8/6/2021)
 - Files will be added soon along with updates to the READMEs (8/8/2021)
+- Added security file (8/8/2021)
 
