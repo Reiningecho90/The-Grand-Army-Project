@@ -12,4 +12,5 @@ Updates:
 - Files will be added soon along with updates to the READMEs (8/8/2021)
 - Added security file (8/8/2021)
 - Added github pages website (8/9/2021)
+- Working throguht eh game in free time, development is coming along nicely as features continue to get added (8/10/2021)
 
