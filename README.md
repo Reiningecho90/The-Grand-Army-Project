@@ -14,3 +14,4 @@ Updates:
 - Added github pages website (8/9/2021)
 - Working throguh the game in free time, development is coming along nicely as features continue to get added (8/10/2021)
 - Currently the game is nearing a useable state, with the exception of missions everything on the main world is almost complete (8/11/2021)
+- Added issue for NPC programming, due Jan 1st 2022 (8/11/2021)
