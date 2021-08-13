@@ -5,6 +5,8 @@ This project will be updating frequently on September 1st when I finish S.A.N.E.
 
 View the early GitHub Pages website here: https://reiningecho90.github.io/The-Grand-Army-Project/
 
+Currently working on: Credit System
+
 Updates: 
 - This is currently in production and will fully release on September first with the addition of code files, readmes and automation (8/4/2021)
 - Project page is set up with automation (8/5/2021)
@@ -15,3 +17,4 @@ Updates:
 - Working throguh the game in free time, development is coming along nicely as features continue to get added (8/10/2021)
 - Currently the game is nearing a useable state, with the exception of missions everything on the main world is almost complete (8/11/2021)
 - Added issue for NPC programming, due Jan 1st 2022 (8/11/2021)
+- Added credit buying issue (8/12/2021)
