@@ -18,3 +18,4 @@ Updates:
 - Currently the game is nearing a useable state, with the exception of missions everything on the main world is almost complete (8/11/2021)
 - Added issue for NPC programming, due Jan 1st 2022 (8/11/2021)
 - Added credit buying issue (8/12/2021)
+- Returned from two week vacation (8/29/2021)
