@@ -19,3 +19,4 @@ Updates:
 - Added issue for NPC programming, due Jan 1st 2022 (8/11/2021)
 - Added credit buying issue (8/12/2021)
 - Returned from two week vacation (8/29/2021)
+- Deleted code branches for security reasons going into the future. Code won't be posted but updates will (8/31/2021)
