@@ -2,6 +2,6 @@
 
 Game Website:
 
-GitHub Pages:
+GitHub Pages: https://reiningecho90.github.io/The-Grand-Army-Project/
 
 Donate:
