@@ -10,3 +10,4 @@ Currently working on: Tutorial System
 Updates: 
 - Purged to update-archive.txt (9/3/2021)
 - Tutorial system is now under production, the credit system will be getting minor updates as it gets to a readied state (9/3/2021)
+- Added issue for purging to update archive (9/3/2021)
