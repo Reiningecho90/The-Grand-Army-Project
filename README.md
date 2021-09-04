@@ -5,7 +5,7 @@ This project will be updating frequently on September 1st when I finish S.A.N.E.
 
 View the early GitHub Pages website here: https://reiningecho90.github.io/The-Grand-Army-Project/
 
-Currently working on: Credit System
+Currently working on: Tutorial System
 
 Updates: 
 - This is currently in production and will fully release on September first with the addition of code files, readmes and automation (8/4/2021)
@@ -20,3 +20,4 @@ Updates:
 - Added credit buying issue (8/12/2021)
 - Returned from two week vacation (8/29/2021)
 - Deleted code branches for security reasons going into the future. Code won't be posted but updates will (8/31/2021)
+- Tutorial system is now under production, the credit system will be getting minor updates as it gets to a readied state (9/3/2021)
