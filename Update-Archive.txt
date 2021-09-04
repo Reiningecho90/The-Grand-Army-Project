@@ -1,1 +1,14 @@
 Update Archive
+
+- This is currently in production and will fully release on September first with the addition of code files, readmes and automation (8/4/2021)
+- Project page is set up with automation (8/5/2021)
+- Working on the actual build parts for the first map, should be finished soon after the training course is done. I will make another branch for pictures (8/6/2021)
+- Files will be added soon along with updates to the READMEs (8/8/2021)
+- Added security file (8/8/2021)
+- Added github pages website (8/9/2021)
+- Working throguh the game in free time, development is coming along nicely as features continue to get added (8/10/2021)
+- Currently the game is nearing a useable state, with the exception of missions everything on the main world is almost complete (8/11/2021)
+- Added issue for NPC programming, due Jan 1st 2022 (8/11/2021)
+- Added credit buying issue (8/12/2021)
+- Returned from two week vacation (8/29/2021)
+- Deleted code branches for security reasons going into the future. Code won't be posted but updates will (8/31/2021)
