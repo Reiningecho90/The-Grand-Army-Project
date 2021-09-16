@@ -14,3 +14,4 @@ Updates:
 - Progress will be slow as I have school and am looking for other development teams. This however does not mean I will be stopping this project before it's slated release (9/5/2021)
 - Yesterday the finishing touches were placed on the barracks building and most of the barracks step of the tutorial are finished (9/7/2021)
 - Added issue to track readiness of path system for the tutorial phase of the game. (9/10/2021)
+- Posted issue regarding user safety, these changes will be placed before the first release but are currently queued. The information was also added to the security file (9/15/2021)
