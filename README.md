@@ -5,8 +5,6 @@ View the early GitHub Pages website here: https://reiningecho90.github.io/The-Gr
 
 Currently working on: Tutorial System
 
-School work has stopped a lot of productivity, work will start back up tomorrow and should continue through the end of the year.
-
 Updates: 
 - Purged to update-archive.txt (9/3/2021)
 - Tutorial system is now under production, the credit system will be getting minor updates as it gets to a readied state (9/3/2021)
