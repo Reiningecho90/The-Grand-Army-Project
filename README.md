@@ -15,3 +15,5 @@ Updates:
 - Yesterday the finishing touches were placed on the barracks building and most of the barracks step of the tutorial are finished (9/7/2021)
 - Added issue to track readiness of path system for the tutorial phase of the game. (9/10/2021)
 - Posted issue regarding user safety, these changes will be placed before the first release but are currently queued. The information was also added to the security file (9/15/2021)
+- Closed issue on modeling paths, both remaining paths were finished today (9/16/2021)
+- Closed issue on credit system, read comment on closed issue for more information (9/16/2021)
